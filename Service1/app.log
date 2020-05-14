@@ -1,0 +1,1093 @@
+2020-02-13 11:33:06,302 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380'}
+2020-02-13 11:33:06,302 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113'}
+2020-02-13 11:33:06,347 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293'}
+2020-02-13 11:33:06,449 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290'}
+2020-02-13 11:33:06,551 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246'}
+2020-02-13 11:33:06,654 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456'}
+2020-02-13 11:33:06,754 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797'}
+2020-02-13 11:33:06,852 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888'}
+2020-02-13 11:33:06,953 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981'}
+2020-02-13 11:33:07,050 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214'}
+2020-02-13 11:33:11,330 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380', 'color': 'red'}
+2020-02-13 11:33:11,330 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113', 'color': 'red'}
+2020-02-13 11:33:11,361 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293', 'color': 'red'}
+2020-02-13 11:33:11,462 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290', 'color': 'red'}
+2020-02-13 11:33:11,567 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246', 'color': 'red'}
+2020-02-13 11:33:11,670 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456', 'color': 'red'}
+2020-02-13 11:33:11,768 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797', 'color': 'red'}
+2020-02-13 11:33:11,870 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888', 'color': 'red'}
+2020-02-13 11:33:11,969 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981', 'color': 'red'}
+2020-02-13 11:33:12,066 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214', 'color': 'red'}
+2020-02-13 11:33:16,350 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099'}
+2020-02-13 11:33:16,350 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323'}
+2020-02-13 11:33:16,372 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591'}
+2020-02-13 11:33:16,478 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208'}
+2020-02-13 11:33:16,582 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895'}
+2020-02-13 11:33:16,685 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480'}
+2020-02-13 11:33:16,783 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486'}
+2020-02-13 11:33:16,885 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953'}
+2020-02-13 11:33:16,989 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373'}
+2020-02-13 11:33:17,082 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238'}
+2020-02-13 11:33:21,369 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099', 'color': 'red'}
+2020-02-13 11:33:21,370 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323', 'color': 'red'}
+2020-02-13 11:33:21,386 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591', 'color': 'red'}
+2020-02-13 11:33:21,489 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208', 'color': 'red'}
+2020-02-13 11:33:21,598 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895', 'color': 'red'}
+2020-02-13 11:33:21,702 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480', 'color': 'red'}
+2020-02-13 11:33:21,798 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486', 'color': 'red'}
+2020-02-13 11:33:21,901 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953', 'color': 'red'}
+2020-02-13 11:33:22,007 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373', 'color': 'red'}
+2020-02-13 11:33:22,100 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238', 'color': 'red'}
+2020-02-13 11:33:26,388 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893'}
+2020-02-13 11:33:26,389 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609'}
+2020-02-13 11:33:26,399 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595'}
+2020-02-13 11:33:26,506 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508'}
+2020-02-13 11:33:26,613 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135'}
+2020-02-13 11:33:26,718 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749'}
+2020-02-13 11:33:26,813 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974'}
+2020-02-13 11:33:26,918 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270'}
+2020-02-13 11:33:27,023 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108'}
+2020-02-13 11:33:27,116 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750'}
+2020-02-13 11:33:31,415 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609', 'color': 'red'}
+2020-02-13 11:33:31,415 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893', 'color': 'red'}
+2020-02-13 11:33:31,416 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595', 'color': 'red'}
+2020-02-13 11:33:31,523 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508', 'color': 'red'}
+2020-02-13 11:33:31,625 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135', 'color': 'red'}
+2020-02-13 11:33:31,733 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749', 'color': 'red'}
+2020-02-13 11:33:31,826 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974', 'color': 'red'}
+2020-02-13 11:33:31,932 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270', 'color': 'red'}
+2020-02-13 11:33:32,039 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108', 'color': 'red'}
+2020-02-13 11:33:32,133 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750', 'color': 'red'}
+2020-02-13 11:33:36,440 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902'}
+2020-02-13 11:33:36,440 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672'}
+2020-02-13 11:33:36,441 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148'}
+2020-02-13 11:33:36,540 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396'}
+2020-02-13 11:33:36,642 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117'}
+2020-02-13 11:33:36,750 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475'}
+2020-02-13 11:33:36,841 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510'}
+2020-02-13 11:33:36,951 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710'}
+2020-02-13 11:33:37,055 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355'}
+2020-02-13 11:33:37,150 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833'}
+2020-02-13 11:33:41,464 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902', 'color': 'red'}
+2020-02-13 11:33:41,465 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148', 'color': 'red'}
+2020-02-13 11:33:41,466 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672', 'color': 'red'}
+2020-02-13 11:33:41,556 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396', 'color': 'red'}
+2020-02-13 11:33:41,658 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117', 'color': 'red'}
+2020-02-13 11:33:41,767 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475', 'color': 'red'}
+2020-02-13 11:33:41,857 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510', 'color': 'red'}
+2020-02-13 11:33:41,967 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710', 'color': 'red'}
+2020-02-13 11:33:42,072 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355', 'color': 'red'}
+2020-02-13 11:33:42,167 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833', 'color': 'red'}
+2020-02-13 11:33:46,488 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792'}
+2020-02-13 11:33:46,488 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737'}
+2020-02-13 11:33:46,489 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-13 11:33:46,571 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012'}
+2020-02-13 11:33:46,677 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468'}
+2020-02-13 11:33:46,783 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099'}
+2020-02-13 11:33:46,892 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598'}
+2020-02-13 11:33:46,990 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594'}
+2020-02-13 11:33:47,090 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441'}
+2020-02-13 11:33:47,187 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243'}
+2020-02-13 11:33:51,511 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737', 'color': 'red'}
+2020-02-13 11:33:51,512 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-13 11:33:51,512 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792', 'color': 'red'}
+2020-02-13 11:33:51,587 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012', 'color': 'red'}
+2020-02-13 11:33:51,692 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468', 'color': 'red'}
+2020-02-13 11:33:51,798 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099', 'color': 'red'}
+2020-02-13 11:33:51,908 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598', 'color': 'red'}
+2020-02-13 11:33:52,008 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594', 'color': 'red'}
+2020-02-13 11:33:52,108 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441', 'color': 'red'}
+2020-02-13 11:33:52,204 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243', 'color': 'red'}
+2020-02-13 11:33:56,536 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261'}
+2020-02-13 11:33:56,537 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705'}
+2020-02-13 11:33:56,538 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971'}
+2020-02-13 11:33:56,601 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695'}
+2020-02-13 11:33:56,708 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481'}
+2020-02-13 11:33:56,831 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289'}
+2020-02-13 11:33:56,930 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-13 11:33:57,031 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392'}
+2020-02-13 11:33:57,135 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308'}
+2020-02-13 11:33:57,228 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568'}
+2020-02-13 11:34:01,561 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971', 'color': 'red'}
+2020-02-13 11:34:01,561 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261', 'color': 'red'}
+2020-02-13 11:34:01,562 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705', 'color': 'red'}
+2020-02-13 11:34:01,618 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695', 'color': 'red'}
+2020-02-13 11:34:01,724 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481', 'color': 'red'}
+2020-02-13 11:34:01,846 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289', 'color': 'red'}
+2020-02-13 11:34:01,945 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-13 11:34:02,046 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392', 'color': 'red'}
+2020-02-13 11:34:02,153 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308', 'color': 'red'}
+2020-02-13 11:34:02,250 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568', 'color': 'red'}
+2020-02-13 11:34:06,584 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614'}
+2020-02-13 11:34:06,585 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336'}
+2020-02-13 11:34:06,585 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960'}
+2020-02-13 11:34:06,631 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399'}
+2020-02-13 11:34:06,739 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136'}
+2020-02-13 11:34:06,862 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444'}
+2020-02-13 11:34:06,957 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190'}
+2020-02-13 11:34:07,063 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845'}
+2020-02-13 11:34:07,170 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699'}
+2020-02-13 11:34:07,267 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928'}
+2020-02-13 11:34:11,607 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614', 'color': 'red'}
+2020-02-13 11:34:11,608 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336', 'color': 'red'}
+2020-02-13 11:34:11,609 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960', 'color': 'red'}
+2020-02-13 11:34:11,645 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399', 'color': 'red'}
+2020-02-13 11:34:11,756 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136', 'color': 'red'}
+2020-02-13 11:34:11,878 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444', 'color': 'red'}
+2020-02-13 11:34:11,972 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190', 'color': 'red'}
+2020-02-13 11:34:12,078 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845', 'color': 'red'}
+2020-02-13 11:34:12,187 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699', 'color': 'red'}
+2020-02-13 11:34:12,283 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928', 'color': 'red'}
+2020-02-13 11:34:16,631 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168'}
+2020-02-13 11:34:16,632 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880'}
+2020-02-13 11:34:16,632 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522'}
+2020-02-13 11:34:16,658 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537'}
+2020-02-13 11:34:16,772 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151'}
+2020-02-13 11:34:16,891 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563'}
+2020-02-13 11:34:16,985 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663'}
+2020-02-13 11:34:17,092 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781'}
+2020-02-13 11:34:17,204 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279'}
+2020-02-13 11:34:17,300 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624'}
+2020-02-13 11:34:21,654 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168', 'color': 'red'}
+2020-02-13 11:34:21,655 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880', 'color': 'red'}
+2020-02-13 11:34:21,655 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522', 'color': 'red'}
+2020-02-13 11:34:21,672 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537', 'color': 'red'}
+2020-02-13 11:34:21,785 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151', 'color': 'red'}
+2020-02-13 11:34:21,907 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563', 'color': 'red'}
+2020-02-13 11:34:21,999 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663', 'color': 'red'}
+2020-02-13 11:34:22,106 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781', 'color': 'red'}
+2020-02-13 11:34:22,221 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279', 'color': 'red'}
+2020-02-13 11:34:22,316 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624', 'color': 'red'}
+2020-02-13 11:34:26,684 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733'}
+2020-02-13 11:34:26,684 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862'}
+2020-02-13 11:34:26,684 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-13 11:34:26,687 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902'}
+2020-02-13 11:34:26,799 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088'}
+2020-02-13 11:34:26,921 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361'}
+2020-02-13 11:34:27,013 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979'}
+2020-02-13 11:34:27,118 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959'}
+2020-02-13 11:34:27,236 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748'}
+2020-02-13 11:34:27,332 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307'}
+2020-02-13 11:34:31,713 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733', 'color': 'red'}
+2020-02-13 11:34:31,713 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862', 'color': 'red'}
+2020-02-13 11:34:31,713 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902', 'color': 'red'}
+2020-02-13 11:34:31,714 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-13 11:34:31,813 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088', 'color': 'red'}
+2020-02-13 11:34:31,936 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361', 'color': 'red'}
+2020-02-13 11:34:32,028 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979', 'color': 'red'}
+2020-02-13 11:34:32,134 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959', 'color': 'red'}
+2020-02-13 11:34:32,253 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748', 'color': 'red'}
+2020-02-13 11:34:32,347 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307', 'color': 'red'}
+2020-02-13 11:34:36,743 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257'}
+2020-02-13 11:34:36,743 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907'}
+2020-02-13 11:34:36,743 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237'}
+2020-02-13 11:34:36,744 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207'}
+2020-02-13 11:34:36,830 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736'}
+2020-02-13 11:34:36,950 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039'}
+2020-02-13 11:34:37,043 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5523'}
+2020-02-13 11:34:37,151 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3848'}
+2020-02-13 11:34:37,270 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0532'}
+2020-02-13 11:34:37,363 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-13 11:34:41,772 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907', 'color': 'red'}
+2020-02-13 11:34:41,772 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237', 'color': 'red'}
+2020-02-13 11:34:41,773 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257', 'color': 'red'}
+2020-02-13 11:34:41,774 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207', 'color': 'red'}
+2020-02-13 11:34:41,846 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736', 'color': 'red'}
+2020-02-13 11:34:41,965 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039', 'color': 'red'}
+2020-02-13 11:34:42,057 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5523', 'color': 'red'}
+2020-02-13 11:34:42,166 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3848', 'color': 'red'}
+2020-02-13 11:34:42,287 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0532', 'color': 'red'}
+2020-02-13 11:34:42,375 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-13 11:35:24,582 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-13 11:36:18,281 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113'}
+2020-02-13 11:36:18,378 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380'}
+2020-02-13 11:36:18,478 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293'}
+2020-02-13 11:36:18,578 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290'}
+2020-02-13 11:36:18,677 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246'}
+2020-02-13 11:36:18,776 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456'}
+2020-02-13 11:36:18,880 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797'}
+2020-02-13 11:36:18,977 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888'}
+2020-02-13 11:36:19,080 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981'}
+2020-02-13 11:36:19,180 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214'}
+2020-02-13 11:36:23,296 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113', 'color': 'red'}
+2020-02-13 11:36:23,394 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380', 'color': 'red'}
+2020-02-13 11:36:23,490 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293', 'color': 'red'}
+2020-02-13 11:36:23,593 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290', 'color': 'red'}
+2020-02-13 11:36:23,693 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246', 'color': 'red'}
+2020-02-13 11:36:23,793 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456', 'color': 'red'}
+2020-02-13 11:36:23,895 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797', 'color': 'red'}
+2020-02-13 11:36:23,991 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888', 'color': 'red'}
+2020-02-13 11:36:24,098 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981', 'color': 'red'}
+2020-02-13 11:36:24,196 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214', 'color': 'red'}
+2020-02-13 11:36:28,312 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323'}
+2020-02-13 11:36:28,409 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099'}
+2020-02-13 11:36:28,505 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591'}
+2020-02-13 11:36:28,608 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208'}
+2020-02-13 11:36:28,707 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895'}
+2020-02-13 11:36:28,811 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480'}
+2020-02-13 11:36:28,912 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486'}
+2020-02-13 11:36:29,007 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953'}
+2020-02-13 11:36:29,116 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373'}
+2020-02-13 11:36:29,214 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238'}
+2020-02-13 11:36:33,326 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323', 'color': 'red'}
+2020-02-13 11:36:33,423 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099', 'color': 'red'}
+2020-02-13 11:36:33,520 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591', 'color': 'red'}
+2020-02-13 11:36:33,624 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208', 'color': 'red'}
+2020-02-13 11:36:33,721 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895', 'color': 'red'}
+2020-02-13 11:36:33,827 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480', 'color': 'red'}
+2020-02-13 11:36:33,927 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486', 'color': 'red'}
+2020-02-13 11:36:34,022 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953', 'color': 'red'}
+2020-02-13 11:36:34,133 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373', 'color': 'red'}
+2020-02-13 11:36:34,230 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238', 'color': 'red'}
+2020-02-13 11:36:38,344 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893'}
+2020-02-13 11:36:38,438 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609'}
+2020-02-13 11:36:38,536 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595'}
+2020-02-13 11:36:38,640 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508'}
+2020-02-13 11:36:38,735 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135'}
+2020-02-13 11:36:38,844 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749'}
+2020-02-13 11:36:38,943 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974'}
+2020-02-13 11:36:39,035 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270'}
+2020-02-13 11:36:39,147 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108'}
+2020-02-13 11:36:39,246 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750'}
+2020-02-13 11:36:43,361 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893', 'color': 'red'}
+2020-02-13 11:36:43,453 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609', 'color': 'red'}
+2020-02-13 11:36:43,550 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595', 'color': 'red'}
+2020-02-13 11:36:43,654 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508', 'color': 'red'}
+2020-02-13 11:36:43,747 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135', 'color': 'red'}
+2020-02-13 11:36:43,860 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749', 'color': 'red'}
+2020-02-13 11:36:43,959 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974', 'color': 'red'}
+2020-02-13 11:36:44,047 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270', 'color': 'red'}
+2020-02-13 11:36:44,162 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108', 'color': 'red'}
+2020-02-13 11:36:44,262 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750', 'color': 'red'}
+2020-02-13 11:36:48,377 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148'}
+2020-02-13 11:36:48,469 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902'}
+2020-02-13 11:36:48,567 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672'}
+2020-02-13 11:36:48,672 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396'}
+2020-02-13 11:36:48,761 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117'}
+2020-02-13 11:36:48,874 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475'}
+2020-02-13 11:36:48,973 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510'}
+2020-02-13 11:36:49,063 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710'}
+2020-02-13 11:36:49,174 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355'}
+2020-02-13 11:36:49,279 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833'}
+2020-02-13 11:36:53,394 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148', 'color': 'red'}
+2020-02-13 11:36:53,484 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902', 'color': 'red'}
+2020-02-13 11:36:53,580 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672', 'color': 'red'}
+2020-02-13 11:36:53,689 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396', 'color': 'red'}
+2020-02-13 11:36:53,777 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117', 'color': 'red'}
+2020-02-13 11:36:53,887 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475', 'color': 'red'}
+2020-02-13 11:36:53,985 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510', 'color': 'red'}
+2020-02-13 11:36:54,079 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710', 'color': 'red'}
+2020-02-13 11:36:54,188 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355', 'color': 'red'}
+2020-02-13 11:36:54,292 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833', 'color': 'red'}
+2020-02-13 11:36:58,409 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-13 11:36:58,500 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737'}
+2020-02-13 11:36:58,594 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792'}
+2020-02-13 11:36:58,703 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012'}
+2020-02-13 11:36:58,794 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468'}
+2020-02-13 11:36:58,897 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099'}
+2020-02-13 11:36:59,000 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598'}
+2020-02-13 11:36:59,091 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594'}
+2020-02-13 11:36:59,201 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441'}
+2020-02-13 11:36:59,306 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243'}
+2020-02-13 11:37:03,422 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-13 11:37:03,513 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737', 'color': 'red'}
+2020-02-13 11:37:03,611 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792', 'color': 'red'}
+2020-02-13 11:37:03,718 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012', 'color': 'red'}
+2020-02-13 11:37:03,814 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468', 'color': 'red'}
+2020-02-13 11:37:03,912 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099', 'color': 'red'}
+2020-02-13 11:37:04,012 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598', 'color': 'red'}
+2020-02-13 11:37:04,108 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594', 'color': 'red'}
+2020-02-13 11:37:04,213 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441', 'color': 'red'}
+2020-02-13 11:37:04,323 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243', 'color': 'red'}
+2020-02-13 11:37:08,434 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705'}
+2020-02-13 11:37:08,527 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261'}
+2020-02-13 11:37:08,625 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971'}
+2020-02-13 11:37:08,732 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695'}
+2020-02-13 11:37:08,828 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481'}
+2020-02-13 11:37:08,923 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289'}
+2020-02-13 11:37:09,028 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-13 11:37:09,124 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392'}
+2020-02-13 11:37:09,231 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308'}
+2020-02-13 11:37:09,338 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568'}
+2020-02-13 11:37:13,452 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705', 'color': 'red'}
+2020-02-13 11:37:13,540 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261', 'color': 'red'}
+2020-02-13 11:37:13,645 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971', 'color': 'red'}
+2020-02-13 11:37:13,752 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695', 'color': 'red'}
+2020-02-13 11:37:13,851 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481', 'color': 'red'}
+2020-02-13 11:37:13,942 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289', 'color': 'red'}
+2020-02-13 11:37:14,048 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-13 11:37:14,146 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392', 'color': 'red'}
+2020-02-13 11:37:14,254 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308', 'color': 'red'}
+2020-02-13 11:37:14,354 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568', 'color': 'red'}
+2020-02-13 11:37:18,473 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960'}
+2020-02-13 11:37:18,561 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614'}
+2020-02-13 11:37:18,664 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336'}
+2020-02-13 11:37:18,764 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399'}
+2020-02-13 11:37:18,872 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136'}
+2020-02-13 11:37:18,965 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444'}
+2020-02-13 11:37:19,069 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190'}
+2020-02-13 11:37:19,163 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845'}
+2020-02-13 11:37:19,275 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699'}
+2020-02-13 11:37:19,374 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928'}
+2020-02-13 11:37:23,494 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960', 'color': 'red'}
+2020-02-13 11:37:23,579 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614', 'color': 'red'}
+2020-02-13 11:37:23,681 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336', 'color': 'red'}
+2020-02-13 11:37:23,781 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399', 'color': 'red'}
+2020-02-13 11:37:23,892 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136', 'color': 'red'}
+2020-02-13 11:37:23,984 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444', 'color': 'red'}
+2020-02-13 11:37:24,090 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190', 'color': 'red'}
+2020-02-13 11:37:24,178 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845', 'color': 'red'}
+2020-02-13 11:37:24,293 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699', 'color': 'red'}
+2020-02-13 11:37:24,394 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928', 'color': 'red'}
+2020-02-13 11:37:28,521 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522'}
+2020-02-13 11:37:28,601 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880'}
+2020-02-13 11:37:28,708 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168'}
+2020-02-13 11:37:28,812 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537'}
+2020-02-13 11:37:28,968 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151'}
+2020-02-13 11:37:29,009 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563'}
+2020-02-13 11:37:29,121 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663'}
+2020-02-13 11:37:29,205 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781'}
+2020-02-13 11:37:29,312 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279'}
+2020-02-13 11:37:29,412 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624'}
+2020-02-13 11:44:49,818 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361'}
+2020-02-13 11:44:49,819 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979'}
+2020-02-13 11:44:49,824 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733'}
+2020-02-13 11:44:49,825 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537', 'color': 'red'}
+2020-02-13 11:44:49,825 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862'}
+2020-02-13 11:44:49,826 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902'}
+2020-02-13 11:44:49,826 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-13 11:44:49,826 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088'}
+2020-02-13 11:44:54,949 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-13 11:44:54,951 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361', 'color': 'red'}
+2020-02-13 11:44:54,951 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088', 'color': 'red'}
+2020-02-13 11:44:54,952 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862', 'color': 'red'}
+2020-02-13 11:44:54,955 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902', 'color': 'red'}
+2020-02-13 11:44:54,955 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979', 'color': 'red'}
+2020-02-13 11:44:54,956 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959'}
+2020-02-13 11:44:54,956 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733', 'color': 'red'}
+2020-02-13 11:45:00,000 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907'}
+2020-02-13 11:45:00,001 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748'}
+2020-02-13 11:45:00,006 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237'}
+2020-02-13 11:45:00,007 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257'}
+2020-02-13 11:45:00,007 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307'}
+2020-02-13 11:45:00,007 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207'}
+2020-02-13 11:45:00,008 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959', 'color': 'red'}
+2020-02-13 11:45:00,009 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736'}
+2020-02-13 11:45:05,051 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907', 'color': 'red'}
+2020-02-13 11:45:05,052 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748', 'color': 'red'}
+2020-02-13 11:45:05,052 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257', 'color': 'red'}
+2020-02-13 11:45:05,054 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307', 'color': 'red'}
+2020-02-13 11:45:05,054 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207', 'color': 'red'}
+2020-02-13 11:45:05,056 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237', 'color': 'red'}
+2020-02-13 11:45:05,056 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736', 'color': 'red'}
+2020-02-13 11:45:05,056 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039'}
+2020-02-13 11:45:10,073 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039', 'color': 'red'}
+2020-02-13 11:47:54,102 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113'}
+2020-02-13 11:47:54,199 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380'}
+2020-02-13 11:47:54,301 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293'}
+2020-02-13 11:47:54,400 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290'}
+2020-02-13 11:47:54,495 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246'}
+2020-02-13 11:47:54,596 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456'}
+2020-02-13 11:47:54,699 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797'}
+2020-02-13 11:47:54,802 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888'}
+2020-02-13 11:47:54,898 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981'}
+2020-02-13 11:47:54,997 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214'}
+2020-02-13 11:47:59,117 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113', 'color': 'red'}
+2020-02-13 11:47:59,214 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380', 'color': 'red'}
+2020-02-13 11:47:59,314 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293', 'color': 'red'}
+2020-02-13 11:47:59,415 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290', 'color': 'red'}
+2020-02-13 11:47:59,508 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246', 'color': 'red'}
+2020-02-13 11:47:59,610 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456', 'color': 'red'}
+2020-02-13 11:47:59,712 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797', 'color': 'red'}
+2020-02-13 11:47:59,820 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888', 'color': 'red'}
+2020-02-13 11:47:59,918 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981', 'color': 'red'}
+2020-02-13 11:48:00,016 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214', 'color': 'red'}
+2020-02-13 11:48:04,144 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323'}
+2020-02-13 11:48:04,236 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099'}
+2020-02-13 11:48:04,329 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591'}
+2020-02-13 11:48:04,432 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208'}
+2020-02-13 11:48:04,521 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895'}
+2020-02-13 11:48:04,628 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480'}
+2020-02-13 11:48:04,727 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486'}
+2020-02-13 11:48:04,838 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953'}
+2020-02-13 11:48:04,933 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373'}
+2020-02-13 11:48:05,033 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238'}
+2020-02-13 11:48:09,157 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323', 'color': 'red'}
+2020-02-13 11:48:09,252 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099', 'color': 'red'}
+2020-02-13 11:48:09,345 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591', 'color': 'red'}
+2020-02-13 11:48:09,443 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208', 'color': 'red'}
+2020-02-13 11:48:09,536 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895', 'color': 'red'}
+2020-02-13 11:48:09,641 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480', 'color': 'red'}
+2020-02-13 11:48:09,743 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486', 'color': 'red'}
+2020-02-13 11:48:09,853 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953', 'color': 'red'}
+2020-02-13 11:48:09,952 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373', 'color': 'red'}
+2020-02-13 11:48:10,046 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238', 'color': 'red'}
+2020-02-13 11:48:14,172 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893'}
+2020-02-13 11:48:14,264 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609'}
+2020-02-13 11:48:14,359 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595'}
+2020-02-13 11:48:14,456 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508'}
+2020-02-13 11:48:14,552 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135'}
+2020-02-13 11:48:14,655 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749'}
+2020-02-13 11:48:14,760 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974'}
+2020-02-13 11:48:14,866 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270'}
+2020-02-13 11:48:14,970 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108'}
+2020-02-13 11:48:15,061 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750'}
+2020-02-13 11:48:19,187 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893', 'color': 'red'}
+2020-02-13 11:48:19,279 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609', 'color': 'red'}
+2020-02-13 11:48:19,374 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595', 'color': 'red'}
+2020-02-13 11:48:19,472 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508', 'color': 'red'}
+2020-02-13 11:48:19,566 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135', 'color': 'red'}
+2020-02-13 11:48:19,670 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749', 'color': 'red'}
+2020-02-13 11:48:19,772 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974', 'color': 'red'}
+2020-02-13 11:48:19,882 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270', 'color': 'red'}
+2020-02-13 11:48:19,985 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108', 'color': 'red'}
+2020-02-13 11:48:20,076 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750', 'color': 'red'}
+2020-02-13 11:48:24,201 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148'}
+2020-02-13 11:48:24,296 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902'}
+2020-02-13 11:48:24,386 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672'}
+2020-02-13 11:48:24,486 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396'}
+2020-02-13 11:48:24,577 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117'}
+2020-02-13 11:48:24,684 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475'}
+2020-02-13 11:48:24,789 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510'}
+2020-02-13 11:48:24,895 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710'}
+2020-02-13 11:48:25,001 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355'}
+2020-02-13 11:48:25,091 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833'}
+2020-02-13 11:48:29,216 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148', 'color': 'red'}
+2020-02-13 11:48:29,312 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902', 'color': 'red'}
+2020-02-13 11:48:29,401 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672', 'color': 'red'}
+2020-02-13 11:48:29,501 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396', 'color': 'red'}
+2020-02-13 11:48:29,591 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117', 'color': 'red'}
+2020-02-13 11:48:29,695 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475', 'color': 'red'}
+2020-02-13 11:48:29,802 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510', 'color': 'red'}
+2020-02-13 11:48:29,911 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710', 'color': 'red'}
+2020-02-13 11:48:30,021 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355', 'color': 'red'}
+2020-02-13 11:48:30,106 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833', 'color': 'red'}
+2020-02-13 11:48:34,236 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-13 11:48:34,325 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737'}
+2020-02-13 11:48:34,415 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792'}
+2020-02-13 11:48:34,517 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012'}
+2020-02-13 11:48:34,606 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468'}
+2020-02-13 11:48:34,711 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099'}
+2020-02-13 11:48:34,816 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598'}
+2020-02-13 11:48:34,923 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594'}
+2020-02-13 11:48:35,037 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441'}
+2020-02-13 11:48:35,120 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243'}
+2020-02-13 11:48:39,253 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-13 11:48:39,341 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737', 'color': 'red'}
+2020-02-13 11:48:39,430 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792', 'color': 'red'}
+2020-02-13 11:48:39,530 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012', 'color': 'red'}
+2020-02-13 11:48:39,622 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468', 'color': 'red'}
+2020-02-13 11:48:39,726 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099', 'color': 'red'}
+2020-02-13 11:48:39,831 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598', 'color': 'red'}
+2020-02-13 11:48:39,941 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594', 'color': 'red'}
+2020-02-13 11:48:40,052 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441', 'color': 'red'}
+2020-02-13 11:48:40,134 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243', 'color': 'red'}
+2020-02-13 11:48:44,271 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705'}
+2020-02-13 11:48:44,358 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261'}
+2020-02-13 11:48:44,443 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971'}
+2020-02-13 11:48:44,543 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695'}
+2020-02-13 11:48:44,633 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481'}
+2020-02-13 11:48:44,741 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289'}
+2020-02-13 11:48:44,847 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-13 11:48:44,957 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392'}
+2020-02-13 11:48:45,069 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308'}
+2020-02-13 11:48:45,151 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568'}
+2020-02-13 11:48:49,285 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705', 'color': 'red'}
+2020-02-13 11:48:49,373 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261', 'color': 'red'}
+2020-02-13 11:48:49,456 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971', 'color': 'red'}
+2020-02-13 11:48:49,557 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695', 'color': 'red'}
+2020-02-13 11:48:49,651 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481', 'color': 'red'}
+2020-02-13 11:48:49,756 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289', 'color': 'red'}
+2020-02-13 11:48:49,865 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-13 11:48:49,968 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392', 'color': 'red'}
+2020-02-13 11:48:50,087 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308', 'color': 'red'}
+2020-02-13 11:48:50,167 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568', 'color': 'red'}
+2020-02-13 11:48:54,308 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960'}
+2020-02-13 11:48:54,386 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614'}
+2020-02-13 11:48:54,472 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336'}
+2020-02-13 11:48:54,573 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399'}
+2020-02-13 11:48:54,669 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136'}
+2020-02-13 11:48:54,774 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444'}
+2020-02-13 11:48:54,879 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190'}
+2020-02-13 11:48:54,988 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845'}
+2020-02-13 11:48:55,102 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699'}
+2020-02-13 11:48:55,186 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928'}
+2020-02-13 11:48:59,324 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960', 'color': 'red'}
+2020-02-13 11:48:59,402 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614', 'color': 'red'}
+2020-02-13 11:48:59,485 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336', 'color': 'red'}
+2020-02-13 11:48:59,588 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399', 'color': 'red'}
+2020-02-13 11:48:59,684 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136', 'color': 'red'}
+2020-02-13 11:48:59,786 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444', 'color': 'red'}
+2020-02-13 11:48:59,894 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190', 'color': 'red'}
+2020-02-13 11:49:00,004 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845', 'color': 'red'}
+2020-02-13 11:49:00,117 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699', 'color': 'red'}
+2020-02-13 11:49:00,201 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928', 'color': 'red'}
+2020-02-13 11:49:04,340 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522'}
+2020-02-13 11:49:04,416 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880'}
+2020-02-13 11:49:04,500 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168'}
+2020-02-13 11:49:04,600 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537'}
+2020-02-13 11:49:04,699 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151'}
+2020-02-13 11:49:04,801 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563'}
+2020-02-13 11:49:04,909 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663'}
+2020-02-13 11:49:05,020 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781'}
+2020-02-13 11:49:05,134 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279'}
+2020-02-13 11:49:05,219 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624'}
+2020-02-13 11:49:09,352 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522', 'color': 'red'}
+2020-02-13 11:49:09,432 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880', 'color': 'red'}
+2020-02-13 11:49:09,516 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168', 'color': 'red'}
+2020-02-13 11:49:09,613 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537', 'color': 'red'}
+2020-02-13 11:49:09,714 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151', 'color': 'red'}
+2020-02-13 11:49:09,814 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563', 'color': 'red'}
+2020-02-13 11:49:09,921 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663', 'color': 'red'}
+2020-02-13 11:49:10,032 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781', 'color': 'red'}
+2020-02-13 11:49:10,151 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279', 'color': 'red'}
+2020-02-13 11:49:10,233 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624', 'color': 'red'}
+2020-02-13 11:49:14,370 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733'}
+2020-02-13 11:49:14,448 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862'}
+2020-02-13 11:49:14,532 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-13 11:49:14,628 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902'}
+2020-02-13 11:49:14,727 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088'}
+2020-02-13 11:49:14,830 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361'}
+2020-02-13 11:49:14,935 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979'}
+2020-02-13 11:49:15,049 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959'}
+2020-02-13 11:49:15,165 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748'}
+2020-02-13 11:49:15,248 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307'}
+2020-02-13 11:49:19,381 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733', 'color': 'red'}
+2020-02-13 11:49:19,461 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862', 'color': 'red'}
+2020-02-13 11:49:19,546 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-13 11:49:19,642 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902', 'color': 'red'}
+2020-02-13 11:49:19,740 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088', 'color': 'red'}
+2020-02-13 11:49:19,847 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361', 'color': 'red'}
+2020-02-13 11:49:19,967 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979', 'color': 'red'}
+2020-02-13 11:49:20,065 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959', 'color': 'red'}
+2020-02-13 11:49:20,184 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748', 'color': 'red'}
+2020-02-13 11:49:20,261 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307', 'color': 'red'}
+2020-02-13 11:49:24,393 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237'}
+2020-02-13 11:49:24,474 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257'}
+2020-02-13 11:49:24,559 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907'}
+2020-02-13 11:49:24,655 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207'}
+2020-02-13 11:49:24,753 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736'}
+2020-02-13 11:49:24,861 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039'}
+2020-02-13 11:49:24,982 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5523'}
+2020-02-13 11:49:25,080 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3848'}
+2020-02-13 11:49:25,202 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0532'}
+2020-02-13 11:49:25,278 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-13 11:49:29,409 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237', 'color': 'red'}
+2020-02-13 11:49:29,488 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257', 'color': 'red'}
+2020-02-13 11:49:29,571 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907', 'color': 'red'}
+2020-02-13 11:49:29,669 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207', 'color': 'red'}
+2020-02-13 11:49:29,768 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736', 'color': 'red'}
+2020-02-13 11:49:29,872 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039', 'color': 'red'}
+2020-02-13 11:49:29,998 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5523', 'color': 'red'}
+2020-02-13 11:49:30,091 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3848', 'color': 'red'}
+2020-02-13 11:49:30,218 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0532', 'color': 'red'}
+2020-02-13 11:49:30,293 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-13 11:51:34,650 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-13 11:54:49,687 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113'}
+2020-02-13 11:54:49,781 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380'}
+2020-02-13 11:54:49,887 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293'}
+2020-02-13 11:54:49,987 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290'}
+2020-02-13 11:54:50,082 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246'}
+2020-02-13 11:54:50,184 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456'}
+2020-02-13 11:54:50,287 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797'}
+2020-02-13 11:54:50,387 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888'}
+2020-02-13 11:54:50,489 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981'}
+2020-02-13 11:54:50,587 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214'}
+2020-02-13 11:54:54,702 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113', 'color': 'red'}
+2020-02-13 11:54:54,794 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380', 'color': 'red'}
+2020-02-13 11:54:54,901 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293', 'color': 'red'}
+2020-02-13 11:54:54,999 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290', 'color': 'red'}
+2020-02-13 11:54:55,097 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246', 'color': 'red'}
+2020-02-13 11:54:55,197 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456', 'color': 'red'}
+2020-02-13 11:54:55,304 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797', 'color': 'red'}
+2020-02-13 11:54:55,400 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888', 'color': 'red'}
+2020-02-13 11:54:55,505 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981', 'color': 'red'}
+2020-02-13 11:54:55,602 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214', 'color': 'red'}
+2020-02-13 11:54:59,715 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323'}
+2020-02-13 11:54:59,807 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099'}
+2020-02-13 11:54:59,916 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591'}
+2020-02-13 11:55:00,016 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208'}
+2020-02-13 11:55:00,110 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895'}
+2020-02-13 11:55:00,207 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480'}
+2020-02-13 11:55:00,320 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486'}
+2020-02-13 11:55:00,416 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953'}
+2020-02-13 11:55:00,522 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373'}
+2020-02-13 11:55:00,619 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238'}
+2020-02-13 11:55:04,731 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323', 'color': 'red'}
+2020-02-13 11:55:04,822 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099', 'color': 'red'}
+2020-02-13 11:55:04,929 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591', 'color': 'red'}
+2020-02-13 11:55:05,032 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208', 'color': 'red'}
+2020-02-13 11:55:05,122 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895', 'color': 'red'}
+2020-02-13 11:55:05,223 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480', 'color': 'red'}
+2020-02-13 11:55:05,335 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486', 'color': 'red'}
+2020-02-13 11:55:05,433 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953', 'color': 'red'}
+2020-02-13 11:55:05,538 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373', 'color': 'red'}
+2020-02-13 11:55:05,632 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238', 'color': 'red'}
+2020-02-13 11:55:09,751 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893'}
+2020-02-13 11:55:09,837 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609'}
+2020-02-13 11:55:09,942 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595'}
+2020-02-13 11:55:10,058 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508'}
+2020-02-13 11:55:10,164 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135'}
+2020-02-13 11:55:10,236 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749'}
+2020-02-13 11:55:10,352 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974'}
+2020-02-13 11:55:10,445 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270'}
+2020-02-13 11:55:10,551 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108'}
+2020-02-13 11:55:10,647 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750'}
+2020-02-13 11:55:14,772 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893', 'color': 'red'}
+2020-02-13 11:55:14,865 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609', 'color': 'red'}
+2020-02-13 11:55:14,959 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595', 'color': 'red'}
+2020-02-13 11:55:15,071 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508', 'color': 'red'}
+2020-02-13 11:55:15,178 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135', 'color': 'red'}
+2020-02-13 11:55:15,248 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749', 'color': 'red'}
+2020-02-13 11:55:15,366 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974', 'color': 'red'}
+2020-02-13 11:55:15,460 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270', 'color': 'red'}
+2020-02-13 11:55:15,565 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108', 'color': 'red'}
+2020-02-13 11:55:15,659 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750', 'color': 'red'}
+2020-02-13 11:55:19,789 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148'}
+2020-02-13 11:55:19,878 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902'}
+2020-02-13 11:55:19,975 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672'}
+2020-02-13 11:55:20,086 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396'}
+2020-02-13 11:55:20,190 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117'}
+2020-02-13 11:55:20,264 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475'}
+2020-02-13 11:55:20,377 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510'}
+2020-02-13 11:55:20,476 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710'}
+2020-02-13 11:55:20,582 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355'}
+2020-02-13 11:55:20,670 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833'}
+2020-02-13 11:55:24,805 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148', 'color': 'red'}
+2020-02-13 11:55:24,896 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902', 'color': 'red'}
+2020-02-13 11:55:24,988 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672', 'color': 'red'}
+2020-02-13 11:55:25,101 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396', 'color': 'red'}
+2020-02-13 11:55:25,207 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117', 'color': 'red'}
+2020-02-13 11:55:25,284 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475', 'color': 'red'}
+2020-02-13 11:55:25,399 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510', 'color': 'red'}
+2020-02-13 11:55:25,492 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710', 'color': 'red'}
+2020-02-13 11:55:25,605 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355', 'color': 'red'}
+2020-02-13 11:55:25,692 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833', 'color': 'red'}
+2020-02-13 11:57:34,386 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-13 11:59:35,914 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-13 12:00:04,132 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-13 12:05:11,132 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-13 12:06:37,559 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi after Kafka auto commit enabled config file SPA'}
+2020-02-27 08:49:44,621 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi class DEMO'}
+2020-02-27 08:51:14,429 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113'}
+2020-02-27 08:51:14,429 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380'}
+2020-02-27 08:51:14,493 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293'}
+2020-02-27 08:51:14,590 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290'}
+2020-02-27 08:51:14,699 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246'}
+2020-02-27 08:51:14,797 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456'}
+2020-02-27 08:51:14,893 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797'}
+2020-02-27 08:51:14,990 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888'}
+2020-02-27 08:51:15,090 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981'}
+2020-02-27 08:51:15,186 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214'}
+2020-02-27 08:51:19,459 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380', 'color': 'red'}
+2020-02-27 08:51:19,459 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113', 'color': 'red'}
+2020-02-27 08:51:19,511 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293', 'color': 'red'}
+2020-02-27 08:51:19,608 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290', 'color': 'red'}
+2020-02-27 08:51:19,715 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246', 'color': 'red'}
+2020-02-27 08:51:19,815 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456', 'color': 'red'}
+2020-02-27 08:51:19,910 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797', 'color': 'red'}
+2020-02-27 08:51:20,009 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888', 'color': 'red'}
+2020-02-27 08:51:20,110 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981', 'color': 'red'}
+2020-02-27 08:51:20,206 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214', 'color': 'red'}
+2020-02-27 08:51:24,481 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099'}
+2020-02-27 08:51:24,481 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323'}
+2020-02-27 08:51:24,529 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591'}
+2020-02-27 08:51:24,628 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208'}
+2020-02-27 08:51:24,735 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895'}
+2020-02-27 08:51:24,832 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480'}
+2020-02-27 08:51:24,927 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486'}
+2020-02-27 08:51:25,028 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953'}
+2020-02-27 08:51:25,129 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373'}
+2020-02-27 08:51:25,228 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238'}
+2020-02-27 08:51:29,502 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099', 'color': 'red'}
+2020-02-27 08:51:29,503 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323', 'color': 'red'}
+2020-02-27 08:51:29,545 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591', 'color': 'red'}
+2020-02-27 08:51:29,643 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208', 'color': 'red'}
+2020-02-27 08:51:29,754 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895', 'color': 'red'}
+2020-02-27 08:51:29,848 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480', 'color': 'red'}
+2020-02-27 08:51:29,948 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486', 'color': 'red'}
+2020-02-27 08:51:30,048 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953', 'color': 'red'}
+2020-02-27 08:51:30,156 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373', 'color': 'red'}
+2020-02-27 08:51:30,252 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238', 'color': 'red'}
+2020-02-27 08:51:34,521 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609'}
+2020-02-27 08:51:34,522 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893'}
+2020-02-27 08:51:34,563 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595'}
+2020-02-27 08:51:34,657 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508'}
+2020-02-27 08:51:34,770 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135'}
+2020-02-27 08:51:34,863 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749'}
+2020-02-27 08:51:34,963 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974'}
+2020-02-27 08:51:35,066 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270'}
+2020-02-27 08:51:35,174 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108'}
+2020-02-27 08:51:35,270 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750'}
+2020-02-27 08:51:39,541 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609', 'color': 'red'}
+2020-02-27 08:51:39,541 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893', 'color': 'red'}
+2020-02-27 08:51:39,580 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595', 'color': 'red'}
+2020-02-27 08:51:39,674 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508', 'color': 'red'}
+2020-02-27 08:51:39,787 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135', 'color': 'red'}
+2020-02-27 08:51:39,881 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749', 'color': 'red'}
+2020-02-27 08:51:39,981 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974', 'color': 'red'}
+2020-02-27 08:51:40,082 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270', 'color': 'red'}
+2020-02-27 08:51:40,189 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108', 'color': 'red'}
+2020-02-27 08:51:40,290 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750', 'color': 'red'}
+2020-02-27 08:51:44,561 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148'}
+2020-02-27 08:51:44,562 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902'}
+2020-02-27 08:51:44,598 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672'}
+2020-02-27 08:51:44,688 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396'}
+2020-02-27 08:51:44,803 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117'}
+2020-02-27 08:51:44,898 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475'}
+2020-02-27 08:51:44,998 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510'}
+2020-02-27 08:51:45,099 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710'}
+2020-02-27 08:51:45,208 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355'}
+2020-02-27 08:51:45,310 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833'}
+2020-02-27 08:51:49,584 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148', 'color': 'red'}
+2020-02-27 08:51:49,584 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902', 'color': 'red'}
+2020-02-27 08:51:49,615 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672', 'color': 'red'}
+2020-02-27 08:51:49,701 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396', 'color': 'red'}
+2020-02-27 08:51:49,815 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117', 'color': 'red'}
+2020-02-27 08:51:49,915 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475', 'color': 'red'}
+2020-02-27 08:51:50,015 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510', 'color': 'red'}
+2020-02-27 08:51:50,116 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710', 'color': 'red'}
+2020-02-27 08:51:50,227 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355', 'color': 'red'}
+2020-02-27 08:51:50,326 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833', 'color': 'red'}
+2020-02-27 08:51:54,603 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-27 08:51:54,603 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737'}
+2020-02-27 08:51:54,630 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792'}
+2020-02-27 08:51:54,717 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012'}
+2020-02-27 08:51:54,833 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468'}
+2020-02-27 08:51:54,933 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099'}
+2020-02-27 08:51:55,034 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598'}
+2020-02-27 08:51:55,133 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594'}
+2020-02-27 08:51:55,244 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441'}
+2020-02-27 08:51:55,342 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243'}
+2020-02-27 08:51:59,625 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737', 'color': 'red'}
+2020-02-27 08:51:59,626 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-27 08:51:59,646 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792', 'color': 'red'}
+2020-02-27 08:51:59,739 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012', 'color': 'red'}
+2020-02-27 08:51:59,845 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468', 'color': 'red'}
+2020-02-27 08:51:59,946 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099', 'color': 'red'}
+2020-02-27 08:52:00,052 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598', 'color': 'red'}
+2020-02-27 08:52:00,153 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594', 'color': 'red'}
+2020-02-27 08:52:00,263 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441', 'color': 'red'}
+2020-02-27 08:52:00,360 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243', 'color': 'red'}
+2020-02-27 08:52:04,649 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705'}
+2020-02-27 08:52:04,649 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261'}
+2020-02-27 08:52:04,658 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971'}
+2020-02-27 08:52:04,755 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695'}
+2020-02-27 08:52:04,861 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481'}
+2020-02-27 08:52:04,963 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289'}
+2020-02-27 08:52:05,069 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-27 08:52:05,167 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392'}
+2020-02-27 08:52:05,281 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308'}
+2020-02-27 08:52:05,378 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568'}
+2020-02-27 08:52:09,670 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261', 'color': 'red'}
+2020-02-27 08:52:09,671 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705', 'color': 'red'}
+2020-02-27 08:52:09,673 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971', 'color': 'red'}
+2020-02-27 08:52:09,773 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695', 'color': 'red'}
+2020-02-27 08:52:09,876 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481', 'color': 'red'}
+2020-02-27 08:52:09,980 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289', 'color': 'red'}
+2020-02-27 08:52:10,083 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-27 08:52:10,184 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392', 'color': 'red'}
+2020-02-27 08:52:10,296 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308', 'color': 'red'}
+2020-02-27 08:52:10,398 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568', 'color': 'red'}
+2020-02-27 08:52:14,694 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960'}
+2020-02-27 08:52:14,694 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614'}
+2020-02-27 08:52:14,695 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336'}
+2020-02-27 08:52:14,788 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399'}
+2020-02-27 08:52:14,894 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136'}
+2020-02-27 08:52:14,996 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444'}
+2020-02-27 08:52:15,099 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190'}
+2020-02-27 08:52:15,202 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845'}
+2020-02-27 08:52:15,314 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699'}
+2020-02-27 08:52:15,415 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928'}
+2020-02-27 08:52:19,725 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960', 'color': 'red'}
+2020-02-27 08:52:19,725 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614', 'color': 'red'}
+2020-02-27 08:52:19,726 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336', 'color': 'red'}
+2020-02-27 08:52:19,805 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399', 'color': 'red'}
+2020-02-27 08:52:19,912 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136', 'color': 'red'}
+2020-02-27 08:52:20,011 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444', 'color': 'red'}
+2020-02-27 08:52:20,116 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190', 'color': 'red'}
+2020-02-27 08:52:20,219 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845', 'color': 'red'}
+2020-02-27 08:52:20,333 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699', 'color': 'red'}
+2020-02-27 08:52:20,432 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928', 'color': 'red'}
+2020-02-27 08:52:24,749 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168'}
+2020-02-27 08:52:24,750 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522'}
+2020-02-27 08:52:24,750 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880'}
+2020-02-27 08:52:24,821 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537'}
+2020-02-27 08:52:24,925 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151'}
+2020-02-27 08:52:25,024 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563'}
+2020-02-27 08:52:25,129 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663'}
+2020-02-27 08:52:25,236 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781'}
+2020-02-27 08:52:25,352 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279'}
+2020-02-27 08:52:25,451 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624'}
+2020-02-27 08:52:29,773 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6880', 'color': 'red'}
+2020-02-27 08:52:29,774 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0168', 'color': 'red'}
+2020-02-27 08:52:29,774 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8522', 'color': 'red'}
+2020-02-27 08:52:29,836 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4537', 'color': 'red'}
+2020-02-27 08:52:29,942 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7151', 'color': 'red'}
+2020-02-27 08:52:30,040 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2563', 'color': 'red'}
+2020-02-27 08:52:30,147 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1663', 'color': 'red'}
+2020-02-27 08:52:30,251 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9781', 'color': 'red'}
+2020-02-27 08:52:30,368 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2279', 'color': 'red'}
+2020-02-27 08:52:30,468 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3624', 'color': 'red'}
+2020-02-27 08:52:34,797 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862'}
+2020-02-27 08:52:34,797 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733'}
+2020-02-27 08:52:34,798 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-27 08:52:34,849 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902'}
+2020-02-27 08:52:34,958 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088'}
+2020-02-27 08:52:35,053 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361'}
+2020-02-27 08:52:35,160 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979'}
+2020-02-27 08:52:35,267 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959'}
+2020-02-27 08:52:35,380 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748'}
+2020-02-27 08:52:35,481 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307'}
+2020-02-27 08:52:39,824 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-27 08:52:39,824 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0733', 'color': 'red'}
+2020-02-27 08:52:39,825 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0862', 'color': 'red'}
+2020-02-27 08:52:39,864 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9902', 'color': 'red'}
+2020-02-27 08:52:39,975 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0088', 'color': 'red'}
+2020-02-27 08:52:40,070 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1361', 'color': 'red'}
+2020-02-27 08:52:40,172 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2979', 'color': 'red'}
+2020-02-27 08:52:40,280 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6959', 'color': 'red'}
+2020-02-27 08:52:40,396 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6748', 'color': 'red'}
+2020-02-27 08:52:40,497 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7307', 'color': 'red'}
+2020-02-27 08:52:44,850 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257'}
+2020-02-27 08:52:44,851 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907'}
+2020-02-27 08:52:44,851 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237'}
+2020-02-27 08:52:44,877 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207'}
+2020-02-27 08:52:44,992 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736'}
+2020-02-27 08:52:45,084 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039'}
+2020-02-27 08:52:45,191 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5523'}
+2020-02-27 08:52:45,298 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3848'}
+2020-02-27 08:52:45,412 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0532'}
+2020-02-27 08:52:45,511 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-27 08:52:49,873 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9257', 'color': 'red'}
+2020-02-27 08:52:49,874 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5237', 'color': 'red'}
+2020-02-27 08:52:49,874 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5907', 'color': 'red'}
+2020-02-27 08:52:49,892 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5207', 'color': 'red'}
+2020-02-27 08:52:50,009 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8736', 'color': 'red'}
+2020-02-27 08:52:50,098 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2039', 'color': 'red'}
+2020-02-27 08:52:50,205 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5523', 'color': 'red'}
+2020-02-27 08:52:50,313 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3848', 'color': 'red'}
+2020-02-27 08:52:50,429 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0532', 'color': 'red'}
+2020-02-27 08:52:50,526 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-27 09:20:06,871 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113'}
+2020-02-27 09:20:06,945 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380'}
+2020-02-27 09:20:07,046 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293'}
+2020-02-27 09:20:07,150 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290'}
+2020-02-27 09:20:07,248 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246'}
+2020-02-27 09:20:07,347 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456'}
+2020-02-27 09:20:07,452 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797'}
+2020-02-27 09:20:07,548 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888'}
+2020-02-27 09:20:07,648 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981'}
+2020-02-27 09:20:07,746 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214'}
+2020-02-27 09:20:11,888 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7113', 'color': 'red'}
+2020-02-27 09:20:11,962 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2380', 'color': 'red'}
+2020-02-27 09:20:12,063 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7293', 'color': 'red'}
+2020-02-27 09:20:12,166 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3290', 'color': 'red'}
+2020-02-27 09:20:12,264 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5246', 'color': 'red'}
+2020-02-27 09:20:12,363 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1456', 'color': 'red'}
+2020-02-27 09:20:12,466 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7797', 'color': 'red'}
+2020-02-27 09:20:12,564 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9888', 'color': 'red'}
+2020-02-27 09:20:12,662 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8981', 'color': 'red'}
+2020-02-27 09:20:12,762 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6214', 'color': 'red'}
+2020-02-27 09:20:16,904 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323'}
+2020-02-27 09:20:16,977 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099'}
+2020-02-27 09:20:17,079 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591'}
+2020-02-27 09:20:17,180 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208'}
+2020-02-27 09:20:17,281 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895'}
+2020-02-27 09:20:17,381 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480'}
+2020-02-27 09:20:17,482 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486'}
+2020-02-27 09:20:17,582 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953'}
+2020-02-27 09:20:17,681 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373'}
+2020-02-27 09:20:17,780 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238'}
+2020-02-27 09:20:21,922 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1323', 'color': 'red'}
+2020-02-27 09:20:21,991 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1099', 'color': 'red'}
+2020-02-27 09:20:22,096 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3591', 'color': 'red'}
+2020-02-27 09:20:22,195 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7208', 'color': 'red'}
+2020-02-27 09:20:22,298 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7895', 'color': 'red'}
+2020-02-27 09:20:22,396 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0480', 'color': 'red'}
+2020-02-27 09:20:22,497 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9486', 'color': 'red'}
+2020-02-27 09:20:22,600 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9953', 'color': 'red'}
+2020-02-27 09:20:22,699 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5373', 'color': 'red'}
+2020-02-27 09:20:22,799 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9238', 'color': 'red'}
+2020-02-27 09:20:26,951 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893'}
+2020-02-27 09:20:27,009 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609'}
+2020-02-27 09:20:27,112 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595'}
+2020-02-27 09:20:27,211 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508'}
+2020-02-27 09:20:27,314 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135'}
+2020-02-27 09:20:27,410 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749'}
+2020-02-27 09:20:27,518 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974'}
+2020-02-27 09:20:27,647 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270'}
+2020-02-27 09:20:27,726 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108'}
+2020-02-27 09:20:27,816 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750'}
+2020-02-27 09:20:31,966 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2893', 'color': 'red'}
+2020-02-27 09:20:32,024 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6609', 'color': 'red'}
+2020-02-27 09:20:32,125 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9595', 'color': 'red'}
+2020-02-27 09:20:32,225 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8508', 'color': 'red'}
+2020-02-27 09:20:32,337 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9135', 'color': 'red'}
+2020-02-27 09:20:32,426 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2749', 'color': 'red'}
+2020-02-27 09:20:32,533 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6974', 'color': 'red'}
+2020-02-27 09:20:32,663 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3270', 'color': 'red'}
+2020-02-27 09:20:32,743 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_2108', 'color': 'red'}
+2020-02-27 09:20:32,833 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5750', 'color': 'red'}
+2020-02-27 09:20:36,981 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148'}
+2020-02-27 09:20:37,041 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902'}
+2020-02-27 09:20:37,140 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672'}
+2020-02-27 09:20:37,242 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396'}
+2020-02-27 09:20:37,352 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117'}
+2020-02-27 09:20:37,440 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475'}
+2020-02-27 09:20:37,549 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510'}
+2020-02-27 09:20:37,675 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710'}
+2020-02-27 09:20:37,762 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355'}
+2020-02-27 09:20:37,849 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833'}
+2020-02-27 09:20:41,995 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4148', 'color': 'red'}
+2020-02-27 09:20:42,053 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0902', 'color': 'red'}
+2020-02-27 09:20:42,153 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1672', 'color': 'red'}
+2020-02-27 09:20:42,253 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5396', 'color': 'red'}
+2020-02-27 09:20:42,377 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1117', 'color': 'red'}
+2020-02-27 09:20:42,460 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3475', 'color': 'red'}
+2020-02-27 09:20:42,564 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5510', 'color': 'red'}
+2020-02-27 09:20:42,696 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5710', 'color': 'red'}
+2020-02-27 09:20:42,775 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3355', 'color': 'red'}
+2020-02-27 09:20:42,867 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3833', 'color': 'red'}
+2020-02-27 09:20:47,010 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339'}
+2020-02-27 09:20:47,070 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737'}
+2020-02-27 09:20:47,167 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792'}
+2020-02-27 09:20:47,269 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012'}
+2020-02-27 09:20:47,388 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468'}
+2020-02-27 09:20:47,473 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099'}
+2020-02-27 09:20:47,578 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598'}
+2020-02-27 09:20:47,710 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594'}
+2020-02-27 09:20:47,791 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441'}
+2020-02-27 09:20:47,885 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243'}
+2020-02-27 09:20:52,028 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5339', 'color': 'red'}
+2020-02-27 09:20:52,084 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1737', 'color': 'red'}
+2020-02-27 09:20:52,183 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0792', 'color': 'red'}
+2020-02-27 09:20:52,286 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4012', 'color': 'red'}
+2020-02-27 09:20:52,405 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_7468', 'color': 'red'}
+2020-02-27 09:20:52,487 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5099', 'color': 'red'}
+2020-02-27 09:20:52,596 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8598', 'color': 'red'}
+2020-02-27 09:20:52,725 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3594', 'color': 'red'}
+2020-02-27 09:20:52,807 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6441', 'color': 'red'}
+2020-02-27 09:20:52,903 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9243', 'color': 'red'}
+2020-02-27 09:20:57,046 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705'}
+2020-02-27 09:20:57,101 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261'}
+2020-02-27 09:20:57,199 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971'}
+2020-02-27 09:20:57,303 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695'}
+2020-02-27 09:20:57,422 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481'}
+2020-02-27 09:20:57,504 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289'}
+2020-02-27 09:20:57,610 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808'}
+2020-02-27 09:20:57,740 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392'}
+2020-02-27 09:20:57,824 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308'}
+2020-02-27 09:20:57,917 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568'}
+2020-02-27 09:21:02,063 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6705', 'color': 'red'}
+2020-02-27 09:21:02,116 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3261', 'color': 'red'}
+2020-02-27 09:21:02,215 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_9971', 'color': 'red'}
+2020-02-27 09:21:02,319 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0695', 'color': 'red'}
+2020-02-27 09:21:02,439 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6481', 'color': 'red'}
+2020-02-27 09:21:02,519 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_1289', 'color': 'red'}
+2020-02-27 09:21:02,628 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4808', 'color': 'red'}
+2020-02-27 09:21:02,754 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3392', 'color': 'red'}
+2020-02-27 09:21:02,840 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5308', 'color': 'red'}
+2020-02-27 09:21:02,933 - basicLogger - INFO - Card received reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4568', 'color': 'red'}
+2020-02-27 09:21:07,082 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6960'}
+2020-02-27 09:21:07,131 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_6614'}
+2020-02-27 09:21:07,233 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3336'}
+2020-02-27 09:21:07,337 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0399'}
+2020-02-27 09:21:07,460 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_5136'}
+2020-02-27 09:21:07,542 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_8444'}
+2020-02-27 09:21:07,641 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_0190'}
+2020-02-27 09:21:07,769 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4845'}
+2020-02-27 09:21:07,857 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_4699'}
+2020-02-27 09:21:07,949 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'PLAYER_3928'}
+2020-02-27 09:21:14,836 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:14,876 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:14,982 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,082 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,206 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,288 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,386 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,522 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,606 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:15,693 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:17,583 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:17,626 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:17,728 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:17,830 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:17,946 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:18,031 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:18,141 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:18,271 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:18,345 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:18,448 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:20,327 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:20,371 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:20,481 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:20,594 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:20,700 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:20,786 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:20,896 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:21,022 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:21,092 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:21,204 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:23,071 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,111 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,235 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,347 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,436 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,540 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,654 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,767 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,847 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:23,961 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:25,821 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:25,857 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:25,988 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,100 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,186 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,294 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,411 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,523 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,601 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:26,716 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:28,573 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:28,611 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:28,737 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:28,845 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:28,937 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:29,042 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:29,163 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:29,272 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:29,349 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:29,466 - basicLogger - ERROR - Service error while storing the goal scored
+2020-02-27 09:21:31,320 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:31,351 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:31,491 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:31,596 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:31,680 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:31,799 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:31,913 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:32,021 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:32,101 - basicLogger - ERROR - Service error while storing the card received
+2020-02-27 09:21:32,217 - basicLogger - ERROR - Service error while storing the card received
+2020-03-05 10:25:25,327 - basicLogger - ERROR - Service error while storing the goal scored
+2020-03-05 10:26:31,363 - basicLogger - ERROR - Service error while storing the goal scored
+2020-03-05 10:26:52,506 - basicLogger - ERROR - Service error while storing the goal scored
+2020-03-05 10:28:48,083 - basicLogger - ERROR - Service error while storing the goal scored
+2020-03-05 10:30:24,553 - basicLogger - ERROR - Service error while storing the goal scored
+2020-03-05 10:34:43,875 - basicLogger - ERROR - ('Unable to connect to a broker to fetch metadata. See logs.',)
+2020-03-05 10:38:08,163 - basicLogger - INFO - <pykafka.client.KafkaClient at 0x103fdddd0 (hosts=docker-difel110185.eastus2.cloudapp.azure.com:9092)>
+2020-03-05 10:38:08,334 - basicLogger - INFO - <pykafka.topic.Topic at 0x103fddfd0 (name=b'events')>
+2020-03-05 10:38:08,335 - basicLogger - INFO - <pykafka.producer.Producer at 0x103fa6350>
+2020-03-05 10:38:08,521 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi class docker'}
+2020-03-05 10:39:27,842 - basicLogger - INFO - <pykafka.client.KafkaClient at 0x103fa9e90 (hosts=docker-difel110185.eastus2.cloudapp.azure.com:9092)>
+2020-03-05 10:39:28,025 - basicLogger - INFO - <pykafka.topic.Topic at 0x103fd90d0 (name=b'events')>
+2020-03-05 10:39:28,026 - basicLogger - INFO - <pykafka.producer.Producer at 0x103fa6e90>
+2020-03-05 10:39:28,115 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi class docker'}
+2020-03-05 10:46:10,617 - basicLogger - INFO - <pykafka.client.KafkaClient at 0x103fbbe10 (hosts=docker-difel110185.eastus2.cloudapp.azure.com:9092)>
+2020-03-05 10:46:10,786 - basicLogger - INFO - <pykafka.topic.Topic at 0x103fa6c50 (name=b'events')>
+2020-03-05 10:46:10,786 - basicLogger - INFO - <pykafka.producer.Producer at 0x103fd91d0>
+2020-03-05 10:46:10,875 - basicLogger - INFO - Goal scored reported successfully: {'datetime': '2016-08-29T09:12:33.001000+00:00', 'player': 'Messi class docker 2'}
+2020-03-05 12:52:06,020 - basicLogger - INFO - Config file not found. Using default config file.
+2020-03-05 12:52:06,054 - basicLogger - INFO - Config file not found. Using default config file.
+2020-04-29 20:44:13,995 - basicLogger - INFO - Config file not found. Using default config file.
+2020-04-29 20:44:14,034 - basicLogger - INFO - Config file not found. Using default config file.

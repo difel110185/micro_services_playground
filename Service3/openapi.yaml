@@ -1,0 +1,40 @@
+swagger: '2.0'
+info:
+  description: This is an events statistics for the API for Soccer Stats
+  version: 1.0.0
+  title: Events Statistics
+
+paths:
+  /events/stats:
+    get:
+      summary: gets events stats for goals scored and cards received
+      operationId: app.get_events_stats
+      description: Returns events stats
+      produces:
+        - application/json
+      responses:
+        200:
+          description: Current stats
+          schema:
+            $ref: '#/definitions/EventsStats'
+        400:
+          description: invalid input, object invalid
+
+definitions:
+  EventsStats:
+    type: object
+    required:
+    - num_goals_scored
+    - num_cards_received
+    - updated_timestamp
+    properties:
+      num_goals_scored:
+        type: integer
+        example: 1234
+      num_cards_received:
+        type: integer
+        example: 1234
+      updated_timestamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z

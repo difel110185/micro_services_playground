@@ -1,0 +1,11 @@
+version: 1
+datastore:
+  filename: data.json
+scheduler:
+  period_sec: 5
+eventstore:
+  url: http://localhost:8090
+kafka:
+  domain: "docker-difel110185.eastus2.cloudapp.azure.com"
+  port: "9092"
+  topic: "events"

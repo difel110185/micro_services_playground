@@ -1,0 +1,68 @@
+swagger: '2.0'
+info:
+  description: This is an events test for Kafka
+  version: 1.0.0
+  title: Kafka events test
+
+paths:
+  /events/nth_goal_reported:
+    get:
+      summary: gets nth goal reported
+      operationId: app.get_nth_goal_scored
+      description: Returns the nth goal reported
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: position
+          description: The position
+          type: integer
+          required: true
+      responses:
+        200:
+          description: Current stats
+          schema:
+            type: object
+            properties:
+              player:
+                type: string
+                description: The player that scored the goal
+              datetime:
+                type: string
+                format: date-time
+                description: When the goal was scored
+        400:
+          description: invalid input, object invalid
+        404:
+          description: object not found
+  /events/number_of_cards_reported:
+    get:
+      summary: gets the number of cards reported
+      operationId: app.get_number_of_cards_reported
+      description: Returns the number of cards reported
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: start_date
+          description: Start Date Filter
+          type: string
+          format: date-time
+          required: true
+        - in: query
+          name: end_date
+          description: End Date Filter
+          type: string
+          format: date-time
+          required: true
+      responses:
+        200:
+          description: Current stats
+          schema:
+            type: object
+            properties:
+              player:
+                type: integer
+                description: The number of cards reported
+        400:
+          description: invalid input, object invalid

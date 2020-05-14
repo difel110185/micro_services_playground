@@ -1,0 +1,79 @@
+swagger: '2.0'
+info:
+  description: This is an API for Soccer Stats
+  version: 1.0.0
+  title: Soccer Stats API
+
+paths:
+  /stats/goals:
+    post:
+      summary: reports goals scored
+      operationId: app.report_goals_scored
+      description: Stores goals scored
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: body
+        name: goal
+        description: Goal scored by a player
+        schema:
+          $ref: '#/definitions/GoalScored'
+      responses:
+        201:
+          description: item added
+        400:
+          description: invalid input, object invalid
+  /stats/cards:
+    post:
+      summary: reports cards received
+      operationId: app.report_cards_received
+      description: Stores cards received by a player
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: body
+        name: card
+        description: Card's received by a player
+        schema:
+          $ref: '#/definitions/CardReceived'
+      responses:
+        201:
+          description: item added
+        400:
+          description: invalid input, object invalid
+
+definitions:
+  GoalScored:
+    type: object
+    required:
+    - player
+    - datetime
+    properties:
+      player:
+        type: string
+        example: Lionel Messi
+      datetime:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z
+  CardReceived:
+    required:
+    - player
+    - datetime
+    - color
+    properties:
+      player:
+        type: string
+        example: Sérgio Ramos
+      datetime:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z
+      color:
+        type: string
+        enum: [yellow, red]
+        example: red

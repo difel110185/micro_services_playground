@@ -1,0 +1,17 @@
+2020-02-13 11:35:39,756 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 11:51:02,142 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 11:51:05,546 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:04:49,429 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:04:57,996 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:05:19,598 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:05:23,180 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:06:28,294 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:07:40,645 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-13 12:08:13,477 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-02-27 08:50:01,658 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-03-05 10:24:12,049 - basicLogger - ERROR - Service error while getting the nth goal scored
+2020-03-05 10:26:09,095 - basicLogger - ERROR - Service error while getting the nth goal scored
+2020-03-05 10:26:17,697 - basicLogger - ERROR - Service error while getting the nth goal scored
+2020-03-05 10:38:26,647 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-03-05 10:45:38,847 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0
+2020-03-05 10:45:56,270 - basicLogger - INFO - Nth goal scored retrieved successfully: Position 0

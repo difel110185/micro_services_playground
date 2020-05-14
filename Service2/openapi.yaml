@@ -1,0 +1,85 @@
+swagger: '2.0'
+info:
+  description: This is an API for Soccer Stats
+  version: 1.0.0
+  title: Soccer Stats API
+
+paths:
+  /stats/goals:
+    get:
+      summary: returns goals scored
+      operationId: app.get_goals_scored
+      description: Returns goals scored
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: start_date
+          description: Start Date Filter
+          type: string
+          format: date-time
+          required: true
+        - in: query
+          name: end_date
+          description: End Date Filter
+          type: string
+          format: date-time
+          required: true
+      responses:
+        200:
+          description: A list of goals scored
+          schema:
+            type: array
+            items:
+              type: object
+              properties:
+                player:
+                  type: string
+                  description: The player that scored the goal
+                datetime:
+                  type: string
+                  format: date-time
+                  description: When the goal was scored
+        400:
+          description: invalid input, object invalid
+  /stats/cards:
+    get:
+      summary: returns cards received
+      operationId: app.get_cards_received
+      description: Returns cards received
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: start_date
+          description: Start Date Filter
+          type: string
+          format: date-time
+          required: true
+        - in: query
+          name: end_date
+          description: End Date Filter
+          type: string
+          format: date-time
+          required: true
+      responses:
+        200:
+          description: A list of cards received
+          schema:
+            type: array
+            items:
+              type: object
+              properties:
+                player:
+                  type: string
+                  description: The player that scored the goal
+                color:
+                  type: string
+                  enum: [yellow, red]
+                  description: The card's color
+                datetime:
+                  type: string
+                  format: date-time
+                  description: When the goal was scored
+        400:
+          description: invalid input, object invalid

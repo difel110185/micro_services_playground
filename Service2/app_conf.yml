@@ -1,0 +1,11 @@
+version: 1
+database:
+  user: "user"
+  password: "password"
+  hostname: "docker-difel110185.eastus2.cloudapp.azure.com"
+  port: "3306"
+  db: "events"
+kafka:
+  domain: "docker-difel110185.eastus2.cloudapp.azure.com"
+  port: "9092"
+  topic: "events"
